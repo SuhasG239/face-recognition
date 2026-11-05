@@ -1,0 +1,10 @@
+# App (face_app.py) and shared code (face_core.py)
+opencv-python==5.0.0.93
+numpy
+
+# Notebook (face_recognition_model.ipynb)
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter

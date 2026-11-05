@@ -1,0 +1,7 @@
+{
+  "threshold": 0.46,
+  "registered_named_correctly": 0.999,
+  "strangers_given_a_name": 0.008,
+  "photos_per_person_tested": 10,
+  "source": "face_recognition_model.ipynb (LFW, 42 registered / 20 strangers, 10 splits)"
+}

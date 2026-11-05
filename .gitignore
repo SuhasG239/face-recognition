@@ -1,0 +1,13 @@
+# Registered faces (photos of real people) - never commit
+faces_db/
+
+# Downloaded automatically on first run
+models/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
